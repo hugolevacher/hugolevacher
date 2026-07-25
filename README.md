@@ -59,7 +59,7 @@ const hugo = {
 
 ---
 
-> *Random wisdom generated just for this page.*
+> *Random wisdom generated for you to see.*
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
