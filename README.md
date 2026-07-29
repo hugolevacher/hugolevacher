@@ -23,29 +23,25 @@ Co-founder @ Synocti • Full-stack Developer • Building software people enjoy
 const hugo = {
     location: "Canada",
 
-    work: {
-        company: "...",
-        role: "...",
-        currentlyBuilding: [],
-    },
+    currentFocus: ["Building a management system for a client"],
+    currentlyLearning: ["Homelabbing"],
 
     interests: {
-        software: [],
-        technology: [],
-        outsideOfCoding: [],
+        tech: ["AI security", "Algorithms", "Open-source software"],
+        outsideOfCoding: ["Snowboarding", "Reading", "Cooking", "Photography"],
     },
 
-    currentlyLearning: [],
-
-    funFacts: [
-        "...",
-        "...",
-        "..."
+    askMeAbout: [
+        "My favorite books & games",
+        "Recipes I'm currently into",
     ],
 
-    favoriteQuote: "...",
+    funFacts: [
+        "Judo black belt",
+        "Won the Desjardins award for youth involvement in sports",
+    ],
 
-    currentMission: "..."
+    currentMission: "Growing Synocti",
 }
 ````
 
